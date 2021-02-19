@@ -22,10 +22,8 @@ namespace myApp
 
         static void SwapOut(out int a, out int b)
         {
-            a = 2;
-            b = 4;
-            int temp = a;
-            a = b;
+            int temp =  a;
+            a = b ;
             b = temp;
         }
     }
