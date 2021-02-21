@@ -10,7 +10,7 @@ namespace myApp
             int b = 4;
             SwapRef(ref a, ref b);
             Console.WriteLine("a: " + a + " b: " + b);
-            SwapOut(out a, out b);
+            SwapOut(a, b, out a, out b);
             Console.WriteLine("a: " + a + " b: " + b);
         }
        static void SwapRef(ref int a, ref int b)
@@ -20,11 +20,11 @@ namespace myApp
             b = temp;
         }
 
-        static void SwapOut(out int a, out int b)
+        static void SwapOut(int a, int b, out int c, out int d)
         {
-            int temp =  a;
-            a = b ;
-            b = temp;
+            // a = 2 , b = 4 => a = 4, b = 2;
+            c = a;
+            d = b;
         }
     }
 }
