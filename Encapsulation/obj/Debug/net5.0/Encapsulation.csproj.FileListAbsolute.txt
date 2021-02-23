@@ -1,0 +1,16 @@
+E:\LearnDotNet\Encapsulation\obj\Debug\net5.0\Encapsulation.csprojAssemblyReference.cache
+E:\LearnDotNet\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnDotNet\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+E:\LearnDotNet\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+E:\LearnDotNet\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+E:\LearnDotNet\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+E:\LearnDotNet\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+E:\LearnDotNet\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+E:\LearnDotNet\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+E:\LearnDotNet\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+E:\LearnDotNet\Encapsulation\bin\Debug\net5.0\ref\Encapsulation.dll
+E:\LearnDotNet\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+E:\LearnDotNet\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+E:\LearnDotNet\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll
+E:\LearnDotNet\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+E:\LearnDotNet\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache

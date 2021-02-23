@@ -1,0 +1,16 @@
+E:\LearnDotNet\Object\obj\Debug\net5.0\Object.csprojAssemblyReference.cache
+E:\LearnDotNet\Object\obj\Debug\net5.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnDotNet\Object\obj\Debug\net5.0\Object.AssemblyInfoInputs.cache
+E:\LearnDotNet\Object\obj\Debug\net5.0\Object.AssemblyInfo.cs
+E:\LearnDotNet\Object\obj\Debug\net5.0\Object.csproj.CoreCompileInputs.cache
+E:\LearnDotNet\Object\bin\Debug\net5.0\Object.exe
+E:\LearnDotNet\Object\bin\Debug\net5.0\Object.deps.json
+E:\LearnDotNet\Object\bin\Debug\net5.0\Object.runtimeconfig.json
+E:\LearnDotNet\Object\bin\Debug\net5.0\Object.runtimeconfig.dev.json
+E:\LearnDotNet\Object\bin\Debug\net5.0\Object.dll
+E:\LearnDotNet\Object\bin\Debug\net5.0\ref\Object.dll
+E:\LearnDotNet\Object\bin\Debug\net5.0\Object.pdb
+E:\LearnDotNet\Object\obj\Debug\net5.0\Object.dll
+E:\LearnDotNet\Object\obj\Debug\net5.0\ref\Object.dll
+E:\LearnDotNet\Object\obj\Debug\net5.0\Object.pdb
+E:\LearnDotNet\Object\obj\Debug\net5.0\Object.genruntimeconfig.cache
