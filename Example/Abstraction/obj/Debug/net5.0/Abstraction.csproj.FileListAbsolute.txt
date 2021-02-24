@@ -1,0 +1,16 @@
+E:\LearnDotNet\Example\Abstraction\obj\Debug\net5.0\Abstraction.csprojAssemblyReference.cache
+E:\LearnDotNet\Example\Abstraction\obj\Debug\net5.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnDotNet\Example\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfoInputs.cache
+E:\LearnDotNet\Example\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfo.cs
+E:\LearnDotNet\Example\Abstraction\obj\Debug\net5.0\Abstraction.csproj.CoreCompileInputs.cache
+E:\LearnDotNet\Example\Abstraction\bin\Debug\net5.0\Abstraction.exe
+E:\LearnDotNet\Example\Abstraction\bin\Debug\net5.0\Abstraction.deps.json
+E:\LearnDotNet\Example\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.json
+E:\LearnDotNet\Example\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.dev.json
+E:\LearnDotNet\Example\Abstraction\bin\Debug\net5.0\Abstraction.dll
+E:\LearnDotNet\Example\Abstraction\bin\Debug\net5.0\ref\Abstraction.dll
+E:\LearnDotNet\Example\Abstraction\bin\Debug\net5.0\Abstraction.pdb
+E:\LearnDotNet\Example\Abstraction\obj\Debug\net5.0\Abstraction.dll
+E:\LearnDotNet\Example\Abstraction\obj\Debug\net5.0\ref\Abstraction.dll
+E:\LearnDotNet\Example\Abstraction\obj\Debug\net5.0\Abstraction.pdb
+E:\LearnDotNet\Example\Abstraction\obj\Debug\net5.0\Abstraction.genruntimeconfig.cache

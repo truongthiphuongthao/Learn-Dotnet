@@ -6,7 +6,16 @@ namespace Abstraction
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+          Animal dog = new Dog();
+          dog.Sound();
+          dog.Eat();
+          dog.Run();
+
+          Animal cat = new Cat();
+          cat.Sound();
+          cat.Eat();
+          cat.Run();
+
         }
     }
 }
