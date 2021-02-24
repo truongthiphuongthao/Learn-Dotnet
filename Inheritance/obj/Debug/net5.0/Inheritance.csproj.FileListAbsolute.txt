@@ -1,0 +1,16 @@
+E:\LearnDotNet\Inheritance\obj\Debug\net5.0\Inheritance.csprojAssemblyReference.cache
+E:\LearnDotNet\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnDotNet\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+E:\LearnDotNet\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+E:\LearnDotNet\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+E:\LearnDotNet\Inheritance\bin\Debug\net5.0\Inheritance.exe
+E:\LearnDotNet\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+E:\LearnDotNet\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+E:\LearnDotNet\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+E:\LearnDotNet\Inheritance\bin\Debug\net5.0\Inheritance.dll
+E:\LearnDotNet\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+E:\LearnDotNet\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+E:\LearnDotNet\Inheritance\obj\Debug\net5.0\Inheritance.dll
+E:\LearnDotNet\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+E:\LearnDotNet\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+E:\LearnDotNet\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
