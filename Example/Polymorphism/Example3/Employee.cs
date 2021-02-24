@@ -32,10 +32,12 @@ namespace Example3
           salary = Convert.ToDouble(Console.ReadLine());
         }
 
-        public virtual void displayInformation(){
+        public void displayInformation(){
           Console.WriteLine("Code: {0}", code);
           Console.WriteLine("Name: {0}", name);
           Console.WriteLine("Address: {0}", address);
+          Console.WriteLine("Position: {0}", position);
+          Console.WriteLine("Salary: {0}", calculateSalary());
         }
 
         public virtual double calculateSalary(){

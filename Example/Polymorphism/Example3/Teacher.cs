@@ -15,12 +15,5 @@ namespace Example3
         return salary * 600;
       }
 
-      public override void displayInformation(){
-        Console.WriteLine("------------Display information Teacher----------");
-        base.displayInformation();
-        Console.WriteLine("Position: {0}", position);
-        Console.WriteLine("Salary: {0}", calculateSalary());
-      }
-
     }
 }
