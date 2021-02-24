@@ -1,0 +1,16 @@
+E:\LearnDotNet\Example\Polymorphism\Example1\bin\Debug\net5.0\Example1.exe
+E:\LearnDotNet\Example\Polymorphism\Example1\bin\Debug\net5.0\Example1.deps.json
+E:\LearnDotNet\Example\Polymorphism\Example1\bin\Debug\net5.0\Example1.runtimeconfig.json
+E:\LearnDotNet\Example\Polymorphism\Example1\bin\Debug\net5.0\Example1.runtimeconfig.dev.json
+E:\LearnDotNet\Example\Polymorphism\Example1\bin\Debug\net5.0\Example1.dll
+E:\LearnDotNet\Example\Polymorphism\Example1\bin\Debug\net5.0\ref\Example1.dll
+E:\LearnDotNet\Example\Polymorphism\Example1\bin\Debug\net5.0\Example1.pdb
+E:\LearnDotNet\Example\Polymorphism\Example1\obj\Debug\net5.0\Example1.csprojAssemblyReference.cache
+E:\LearnDotNet\Example\Polymorphism\Example1\obj\Debug\net5.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnDotNet\Example\Polymorphism\Example1\obj\Debug\net5.0\Example1.AssemblyInfoInputs.cache
+E:\LearnDotNet\Example\Polymorphism\Example1\obj\Debug\net5.0\Example1.AssemblyInfo.cs
+E:\LearnDotNet\Example\Polymorphism\Example1\obj\Debug\net5.0\Example1.csproj.CoreCompileInputs.cache
+E:\LearnDotNet\Example\Polymorphism\Example1\obj\Debug\net5.0\Example1.dll
+E:\LearnDotNet\Example\Polymorphism\Example1\obj\Debug\net5.0\ref\Example1.dll
+E:\LearnDotNet\Example\Polymorphism\Example1\obj\Debug\net5.0\Example1.pdb
+E:\LearnDotNet\Example\Polymorphism\Example1\obj\Debug\net5.0\Example1.genruntimeconfig.cache
