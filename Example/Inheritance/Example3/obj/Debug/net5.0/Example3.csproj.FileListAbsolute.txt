@@ -1,0 +1,16 @@
+E:\LearnDotNet\Example\Inheritance\Example3\obj\Debug\net5.0\Example3.csprojAssemblyReference.cache
+E:\LearnDotNet\Example\Inheritance\Example3\obj\Debug\net5.0\Example3.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnDotNet\Example\Inheritance\Example3\obj\Debug\net5.0\Example3.AssemblyInfoInputs.cache
+E:\LearnDotNet\Example\Inheritance\Example3\obj\Debug\net5.0\Example3.AssemblyInfo.cs
+E:\LearnDotNet\Example\Inheritance\Example3\obj\Debug\net5.0\Example3.csproj.CoreCompileInputs.cache
+E:\LearnDotNet\Example\Inheritance\Example3\bin\Debug\net5.0\Example3.exe
+E:\LearnDotNet\Example\Inheritance\Example3\bin\Debug\net5.0\Example3.deps.json
+E:\LearnDotNet\Example\Inheritance\Example3\bin\Debug\net5.0\Example3.runtimeconfig.json
+E:\LearnDotNet\Example\Inheritance\Example3\bin\Debug\net5.0\Example3.runtimeconfig.dev.json
+E:\LearnDotNet\Example\Inheritance\Example3\bin\Debug\net5.0\Example3.dll
+E:\LearnDotNet\Example\Inheritance\Example3\bin\Debug\net5.0\ref\Example3.dll
+E:\LearnDotNet\Example\Inheritance\Example3\bin\Debug\net5.0\Example3.pdb
+E:\LearnDotNet\Example\Inheritance\Example3\obj\Debug\net5.0\Example3.dll
+E:\LearnDotNet\Example\Inheritance\Example3\obj\Debug\net5.0\ref\Example3.dll
+E:\LearnDotNet\Example\Inheritance\Example3\obj\Debug\net5.0\Example3.pdb
+E:\LearnDotNet\Example\Inheritance\Example3\obj\Debug\net5.0\Example3.genruntimeconfig.cache
