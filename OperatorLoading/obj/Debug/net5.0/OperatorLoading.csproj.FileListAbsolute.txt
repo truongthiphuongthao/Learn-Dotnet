@@ -1,0 +1,16 @@
+E:\LearnDotNet\OperatorLoading\obj\Debug\net5.0\OperatorLoading.csprojAssemblyReference.cache
+E:\LearnDotNet\OperatorLoading\obj\Debug\net5.0\OperatorLoading.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnDotNet\OperatorLoading\obj\Debug\net5.0\OperatorLoading.AssemblyInfoInputs.cache
+E:\LearnDotNet\OperatorLoading\obj\Debug\net5.0\OperatorLoading.AssemblyInfo.cs
+E:\LearnDotNet\OperatorLoading\obj\Debug\net5.0\OperatorLoading.csproj.CoreCompileInputs.cache
+E:\LearnDotNet\OperatorLoading\bin\Debug\net5.0\OperatorLoading.exe
+E:\LearnDotNet\OperatorLoading\bin\Debug\net5.0\OperatorLoading.deps.json
+E:\LearnDotNet\OperatorLoading\bin\Debug\net5.0\OperatorLoading.runtimeconfig.json
+E:\LearnDotNet\OperatorLoading\bin\Debug\net5.0\OperatorLoading.runtimeconfig.dev.json
+E:\LearnDotNet\OperatorLoading\bin\Debug\net5.0\OperatorLoading.dll
+E:\LearnDotNet\OperatorLoading\bin\Debug\net5.0\ref\OperatorLoading.dll
+E:\LearnDotNet\OperatorLoading\bin\Debug\net5.0\OperatorLoading.pdb
+E:\LearnDotNet\OperatorLoading\obj\Debug\net5.0\OperatorLoading.dll
+E:\LearnDotNet\OperatorLoading\obj\Debug\net5.0\ref\OperatorLoading.dll
+E:\LearnDotNet\OperatorLoading\obj\Debug\net5.0\OperatorLoading.pdb
+E:\LearnDotNet\OperatorLoading\obj\Debug\net5.0\OperatorLoading.genruntimeconfig.cache

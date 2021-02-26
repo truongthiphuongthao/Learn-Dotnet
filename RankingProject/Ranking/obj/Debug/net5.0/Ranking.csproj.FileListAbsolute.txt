@@ -1,0 +1,16 @@
+E:\LearnDotNet\RankingProject\Ranking\bin\Debug\net5.0\Ranking.exe
+E:\LearnDotNet\RankingProject\Ranking\bin\Debug\net5.0\Ranking.deps.json
+E:\LearnDotNet\RankingProject\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.json
+E:\LearnDotNet\RankingProject\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.dev.json
+E:\LearnDotNet\RankingProject\Ranking\bin\Debug\net5.0\Ranking.dll
+E:\LearnDotNet\RankingProject\Ranking\bin\Debug\net5.0\ref\Ranking.dll
+E:\LearnDotNet\RankingProject\Ranking\bin\Debug\net5.0\Ranking.pdb
+E:\LearnDotNet\RankingProject\Ranking\obj\Debug\net5.0\Ranking.csprojAssemblyReference.cache
+E:\LearnDotNet\RankingProject\Ranking\obj\Debug\net5.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnDotNet\RankingProject\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfoInputs.cache
+E:\LearnDotNet\RankingProject\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfo.cs
+E:\LearnDotNet\RankingProject\Ranking\obj\Debug\net5.0\Ranking.csproj.CoreCompileInputs.cache
+E:\LearnDotNet\RankingProject\Ranking\obj\Debug\net5.0\Ranking.dll
+E:\LearnDotNet\RankingProject\Ranking\obj\Debug\net5.0\ref\Ranking.dll
+E:\LearnDotNet\RankingProject\Ranking\obj\Debug\net5.0\Ranking.pdb
+E:\LearnDotNet\RankingProject\Ranking\obj\Debug\net5.0\Ranking.genruntimeconfig.cache
